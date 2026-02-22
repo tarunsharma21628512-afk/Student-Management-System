@@ -1,10 +1,10 @@
-# 🎓 Student Management System
+# Student Management System
 
-## 📌 Project Overview
+## Project Overview
 A console-based Student Management System developed using Python and MySQL.
 This application performs full CRUD operations to manage student records efficiently.
 
-## 🚀 Features
+## Features
 - Add New Student
 - View All Students
 - Search Student by ID
@@ -12,13 +12,13 @@ This application performs full CRUD operations to manage student records efficie
 - Delete Student Record
 - MySQL Database Integration
 
-## 🛠 Tech Stack
+## Tech Stack
 - Python
 - MySQL
 - mysql-connector-python
 
-## ⚙️ How It Works
+## How It Works
 The program connects to a MySQL database and allows users to manage student data using a menu-driven console interface.
 
-## 👨‍💻 Developer
+## Developer
 Tarun Sharma
